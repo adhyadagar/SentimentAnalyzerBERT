@@ -7,6 +7,7 @@ We can easily load a pre-trained BERT from the Transformers library.
 
 <h1> Sentiment Analysis with BERT </h1>
 We take the following approach:
+
 1. Install Transformers library;
 2. Load the BERT Classifier and Tokenizer alıng with Input modules;
 3. Download the IMDB Reviews Data and create a processed dataset (this will take several operations;
